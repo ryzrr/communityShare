@@ -242,11 +242,7 @@ CommunityShare addresses several critical issues:
 - [ ] API for third-party integrations
 - [ ] Franchise/white-label options
 
-## 🏆 Recognition
 
-- **2024 Sustainability Innovation Award** - Green Tech Alliance
-- **Community Impact Prize** - Local Government Association
-- **Open Source Excellence** - Developer Community Awards
 
 ## 📄 License
 
