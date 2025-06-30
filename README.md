@@ -194,13 +194,6 @@ We welcome contributions from developers of all skill levels! Here's how you can
 ### 🎯 **Good First Issues**
 Look for issues labeled `good first issue` or `help wanted` to get started!
 
-## 📖 Documentation
-
-- [API Documentation](docs/api.md)
-- [Component Library](docs/components.md)
-- [Database Schema](docs/database.md)
-- [Deployment Guide](docs/deployment.md)
-- [Contributing Guidelines](CONTRIBUTING.md)
 
 ## 🌍 Real-World Impact
 
@@ -221,13 +214,7 @@ CommunityShare addresses several critical issues:
 - **Social Inclusion**: Provides access to resources regardless of economic status
 - **Knowledge Sharing**: Facilitates learning and skill development
 
-## 📊 Current Metrics
 
-- **12,500+** Items shared and counting
-- **8,200+** Active community members
-- **450+** Neighborhoods participating
-- **2.3M lbs** of waste prevented from landfills
-- **$1.2M+** in estimated community savings
 
 ## 🗺️ Roadmap
 
@@ -272,12 +259,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Sponsors**: Special thanks to our project sponsors
 - **Open Source**: Built on the shoulders of giants in the open source community
 
-## 📞 Contact & Support
-
-- **Website**: [communityshare.org](https://communityshare.org)
-- **Email**: hello@communityshare.org
-- **Discord**: [Join our community](https://discord.gg/communityshare)
-- **Twitter**: [@CommunityShare](https://twitter.com/communityshare)
 
 ---
 
